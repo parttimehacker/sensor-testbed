@@ -45,11 +45,11 @@ from smbus import SMBus
 # Set to your Adafruit IO key.
 # Remember, your key is a secret,
 # so make sure not to publish it when you publish this code!
-ADAFRUIT_IO_KEY = 'fdcd42503dd94c22ee5b5bb165ce87c13ddc5251'
+ADAFRUIT_IO_KEY = 'xxxxx'
 
 # Set to your Adafruit IO username.
 # (go to https://accounts.adafruit.com to find your username)
-ADAFRUIT_IO_USERNAME = 'pthacker'
+ADAFRUIT_IO_USERNAME = 'xxxxx'
 
 # Create an instance of the REST client.
 AIO = Client(ADAFRUIT_IO_USERNAME, ADAFRUIT_IO_KEY)
